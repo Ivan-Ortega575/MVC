@@ -2,6 +2,9 @@
   
 <h1>Patron MVC</h1>
 
+![MVC](https://user-images.githubusercontent.com/72004435/94627687-d4420580-0283-11eb-8018-9d465231d391.png)
+
+
 <h2>Introducción (Definición de MVC y su relación con los patrones de diseño de software)</h2>
 
 Modelo Vista Controlador (MVC) es un estilo de arquitectura de software que separa los datos de una aplicación, la interfaz de usuario, y la lógica de control en tres componentes distintos.
@@ -28,7 +31,7 @@ Haciendo una analogía, podemos imaginar que el framework es un conjunto de ingr
 °Padrino
 °ASP.NET
 
-
+![PHP-MVC-framework1](https://user-images.githubusercontent.com/72004435/94627537-79a8a980-0283-11eb-9e9f-b130ea9cb484.png)
 
 
 <h2>¿Qué ventajas ofrece el modelo MVC?</h2>
