@@ -1,6 +1,6 @@
-<h1>Instituto Tecnológico de Milpa Alta ll</h1>
+<h1><center>Instituto Tecnológico de Milpa Alta ll</center></h1>
 
-Mean Stack para Front-End
+<h1>Mean Stack para Front-End
 
 Ing. Sistemas Computacionales
 
