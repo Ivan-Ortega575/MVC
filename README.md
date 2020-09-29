@@ -57,47 +57,14 @@ insert into estudiante(nombre, paterno, materno, movil) values("Ivan", "Manzanit
 
 <h2>VISTA</h2>
 
-//<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
-  <link rel="stylesheet" href="css/bootstrap4/bootstrap.css">
-  <link rel="stylesheet" href="css/sweetalert2/sweetalert2.min.css">
-</head>
-//<body>
+<html>
+  <head>
+    </head>
+  </body>
+    <body>
+      </html>
 
-<div class="container">
-      <div class="row mt-5">
-      <div class="col-sm-4"></div>
-        <div class="col-sm-4  mt-5">
-          <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="img/error_capa_8.png" alt="Card image cap">
-            <div class="card-body">
-              <form>
-                <div class="form-group d-flex justify-content-end">
-                  <a class="badge badge-light" href="view/registro.php">Registrarse</a>
-                </div>
-                <div class="form-group">
-                  <label for="mi_usuario">Usuario</label>
-                  <input type="text" class="form-control" id="mi_usuario" placeholder="Ingresa tu usuario">
-                </div>
-                <div class="form-group">
-                  <label for="mi_password">Password</label>
-                  <input type="password" class="form-control" id="mi_password" placeholder="Password">
-                </div>
-                <div class="form-check d-flex justify-content-end">
-                  <!-- <button type="submit" class="btn btn-dark">Entrar</button> -->
-                  <span class="btn btn-dark" id="btn_entrar_al_sistema">Entrar</span>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-        <div class="col-sm-4"></div>
-      </div>
-    </div>
+
 
 
 
