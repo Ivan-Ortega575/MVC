@@ -15,8 +15,20 @@ Se trata de un modelo muy maduro y que ha demostrado su validez a lo largo de lo
 
 <h2>¿Que framework utiliza el modelo MVC?</h2>
   
-  El MVC o Modelo-Vista-Controlador es un patrón de arquitectura de software que, utilizando 3 componentes (Vistas, Models y Controladores) separa la lógica de la aplicación de la lógica de la vista en una aplicación. Es una arquitectura importante puesto que se utiliza tanto en componentes gráficos básicos hasta sistemas empresariales; la mayoría de los frameworks modernos utilizan MVC (o alguna adaptación del MVC) para la arquitectura, entre ellos podemos mencionar a Ruby on Rails, Django, AngularJS y muchos otros más.
-Frameworks MVC
+Un framework es una estructura software compuesta de componentes personalizables e intercambiables para el desarrollo de una aplicación. Es un marco (Framework) en el que nosotros vamos a definir piezas. El marco define las reglas del juego a las que nos tenemos que atener. Pensemos en ellos como un puente para realizar código más rápido y fácil.
+Los objetivos principales que persigue un framework para la web son: acelerar el proceso de desarrollo, reutilizar código ya existente y promover mejores prácticas de desarrollo como el uso de patrones de diseño.
+Haciendo una analogía, podemos imaginar que el framework es un conjunto de ingredientes culinarios cortados y preparados para usarlos. Según qué componentes utilizamos y cómo los hayamos cocinado, crearemos un plato u otro.
+
+-Ejemplos de frameworks
+
+°CodeIgniter (php)
+°CakePHP
+°Symfony
+°Ruby on Rails
+°Padrino
+°ASP.NET
+
+
 
 
 <h2>¿Qué ventajas ofrece el modelo MVC?</h2>
