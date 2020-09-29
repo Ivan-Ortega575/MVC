@@ -13,7 +13,7 @@ Se trata de un modelo muy maduro y que ha demostrado su validez a lo largo de lo
 
 •	El Controlador, que actúa como intermediario entre el Modelo y la Vista, gestionando el flujo de información entre ellos y las transformaciones para adaptar los datos a las necesidades de cada uno.
 
-<h2>¿Que framework utiliza el modelo MVC?<h2>
+<h2>¿Que framework utiliza el modelo MVC?</h2>
   
   El MVC o Modelo-Vista-Controlador es un patrón de arquitectura de software que, utilizando 3 componentes (Vistas, Models y Controladores) separa la lógica de la aplicación de la lógica de la vista en una aplicación. Es una arquitectura importante puesto que se utiliza tanto en componentes gráficos básicos hasta sistemas empresariales; la mayoría de los frameworks modernos utilizan MVC (o alguna adaptación del MVC) para la arquitectura, entre ellos podemos mencionar a Ruby on Rails, Django, AngularJS y muchos otros más.
 Frameworks MVC
