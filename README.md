@@ -57,7 +57,7 @@ insert into estudiante(nombre, paterno, materno, movil) values("Ivan", "Manzanit
 
 <h2>VISTA</h2>
 
-<!DOCTYPE html>
+//<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -66,7 +66,7 @@ insert into estudiante(nombre, paterno, materno, movil) values("Ivan", "Manzanit
   <link rel="stylesheet" href="css/bootstrap4/bootstrap.css">
   <link rel="stylesheet" href="css/sweetalert2/sweetalert2.min.css">
 </head>
-<body>
+//<body>
 
 <div class="container">
       <div class="row mt-5">
