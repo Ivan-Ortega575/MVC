@@ -41,57 +41,14 @@ Los frameworks típicamente se basan en patrones y tácticas. Un ejemplo de ello
 
 <h2>MODELO</h2>
 
-create schema if not exists estudiante;
 
-use estudiante;
 
-create table if not exists estudiante(
-  id_estudiante int not null auto_increment primary key,
-  nombre varchar(45) not null, 
-  paterno varchar(45) not null, 
-  materno varchar(45) not null, 
-  movil varchar(45) not null
-)engine =  innodb;
-
-insert into estudiante(nombre, paterno, materno, movil) values("Ivan", "Manzanita", "Ortega", "5577655927");
 
 <h2>VISTA</h2>
 
-<html>
-  <head>
-    </head>
-  </body>
-    <body>
-      </html>
-
-
-
-
-
 <h2>CONTROLADOR</h2>
 
-<?php 
 
-  session_start();
-  require_once "conexion.php";
-
-  $objeto_conexion = conexion();
-
-  $usuario_recibido = $_POST['usuario'];
-  $password_recibido = sha1($_POST['password']);
-
-  $query_de_busqueda = "SELECT * FROM usuarios WHERE usuario='$usuario_recibido' and password='$password_recibido'";
-
-  $resultado_del_query= mysqli_query($objeto_conexion, $query_de_busqueda);
-
-  if(mysqli_num_rows($resultado_del_query) > 0){
-    $_SESSION['user']=$usuario_recibido;
-    echo 1;
-  }else{
-    echo 0;
-  }
-  
-?>
 
 
 
