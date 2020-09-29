@@ -47,11 +47,13 @@ Los frameworks típicamente se basan en patrones y tácticas. Un ejemplo de ello
 
 <h2>VISTA</h2>
 
-![Slide1](https://user-images.githubusercontent.com/72004435/94626174-2aad4500-0280-11eb-8e41-0970b54a52a2.JPG)
+![Slide1 (2)](https://user-images.githubusercontent.com/72004435/94626367-968fad80-0280-11eb-9bbe-eaceb15e45e4.JPG)
+
+
 
 <h2>CONTROLADOR</h2>
 
-
+![Slide1 (2)](https://user-images.githubusercontent.com/72004435/94626772-5da40880-0281-11eb-93c7-d7f062ec76a2.JPG)
 
 
 
